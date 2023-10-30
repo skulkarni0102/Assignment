@@ -1,0 +1,37 @@
+body {
+  background-color: gray;
+}
+table {
+  border: 1px solid black;
+  margin: auto;
+  background-color: azure;
+  box-shadow: 12px 12px 14px #000000;
+}
+input[type='button'] {
+  width: 100%;
+  margin: 0%;
+  padding: 28px 32px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+input[type='text'] {
+  padding: 22px 25px;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  outline: none;
+}
+
+input:hover {
+  background-color: green;
+}
+.number {
+  background-color: black;
+}
+.operator {
+  background-color: gray;
+}
+.ac {
+  background-color: aqua;
+}
